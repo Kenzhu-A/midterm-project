@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "The Study Nook",
+    "location": "Quezon City",
+    "price": 300,
+    "main_image": "/images/study-nook.jpg",
+    "images": ["/images/study-nook-1.jpg", "/images/study-nook-2.jpg"],
+    "description": "A quiet and cozy space perfect for deep focus sessions with soundproof pods and an extensive library.",
+    "amenities": ["High-speed Wi-Fi", "Free Coffee & Tea", "Power Outlets", "Air-conditioned"],
+    "hours": "9:00 AM - 9:00 PM",
+    "time_slots": ["9am - 1pm", "1pm - 5pm", "5pm - 9pm"]
+  },
+  {
+    "id": 2,
+    "name": "WorkHaven Makati",
+    "location": "Makati City",
+    "price": 500,
+    "main_image": "/images/workhaven.webp",
+    "images": ["/images/workhaven-1.jpg", "/images/workhaven-2.jpg"],
+    "description": "Professional co-working in the business district — meeting rooms, pantry and ergonomic chairs.",
+    "amenities": ["Fiber Internet", "Meeting Rooms", "Gourmet Pantry", "24/7 Access"],
+    "hours": "Open 24/7",
+    "time_slots": ["Full Day Pass", "Night Owl Pass (9pm-6am)"]
+  },
+  {
+    "id": 3,
+    "name": "Cebu Creative Hub",
+    "location": "Cebu City",
+    "price": 250,
+    "main_image": "/images/cebu-creative-hub.png",
+    "images": ["/images/cebu-creative-hub-1.png", "/images/cebu-creative-hub-2.png"],
+    "description": "Vibrant, artistic space for creatives — community events and outdoor garden.",
+    "amenities": ["Community Events", "Art Supplies", "Fast Wi-Fi", "Pet-friendly"],
+    "hours": "10:00 AM - 7:00 PM",
+    "time_slots": ["Morning Session (10am-2pm)", "Afternoon Session (2pm-6pm)"]
+  },
+  {
+    "id": 4,
+    "name": "933 Creatives",
+    "location": "Manila",
+    "price": 350,
+    "main_image": "/images/933-creatives.jpg",
+    "images": ["/images/933-creatives-co-working-space-3.jpeg", "/images/933-creatives-2.jpeg"],
+    "description": "A quirky and creative quiet space designed for creative studying.",
+    "amenities": ["Showers", "Napping Area", "Fast Wi-Fi", "Free-flowing Drinks and Snacks"],
+    "hours": "8:00 AM - 5:00 AM",
+    "time_slots": ["Per Hour", "Per four hours", "Whole-Day Pass", "Whole-Day Pass with Dedicated Desk"]
+  },
+  {
+    "id": 5,
+    "name": "MindZone",
+    "location": "Recto / U-Belt area",
+    "price": 600,
+    "main_image": "/images/mind-zone.jpg",
+    "images": ["/images/mind-zone-1.jpg", "/images/mind-zone-2.jpg"],
+    "description": "A study space that is popular among students; rates are fairly student-friendly.",
+    "amenities": ["Coffee", "Free Wi-Fi", "Pantry"],
+    "hours": "8:00 AM - 5:00 AM",
+    "time_slots": ["Half Day", "Full Day"]
+  },
+  {
+    "id": 6,
+    "name": "Room 302",
+    "location": "Davao City",
+    "price": 400,
+    "main_image": "/images/room-302.jpg",
+    "images": ["/images/room-302-1.jpg", "/images/room-302-2.jpg"],
+    "description": "The ideal haven for both focused study sessions and relaxation.",
+    "amenities": ["Charging Stations", "Fast Wi-Fi", "Free Coffee"],
+    "hours": "Open 24/7",
+    "time_slots": ["5am - 1pm","1pm - 9pm", "9pm - 5am"]
+  },
+  {
+    "id": 7,
+    "name": "The Playground PH",
+    "location": "Lipa City",
+    "price": 500,
+    "main_image": "/images/playground.png",
+    "images": ["/images/playground-1.png", "/images/playground-2.png"],
+    "description": "A creative space for energetic startups, freelancers & students.",
+    "amenities": ["Unlimited Coffee", "Fast Wi-Fi", "Free Parking (First-Come-First Serve)"],
+    "hours": "8:00 AM - 8:00 PM",
+    "time_slots": ["Half-Day Pass", "Whole-Day Pass"]
+  },
+  {
+    "id": 8,
+    "name": "In.dus.tri Room",
+    "location": "Cebu City",
+    "price": 200,
+    "main_image": "/images/industri-room.jpg",
+    "images": ["/images/industri-room-1.png", "/images/industri-room-2.jpg"],
+    "description": "Venue for students and professionals to create, study, work, and collaborate with other intellectuals.",
+    "amenities": ["Whiteboard", "Fast Wi-Fi", "Plug-And-Play Audio-Visual Equipment"],
+    "hours": "8:00 AM - 9:00 PM",
+    "time_slots": ["8am - 12pm", "12pm - 4pm", "4pm - 8pm"]
+  },
+  {
+    "id": 9,
+    "name": "Studeo Spaces Bookings",
+    "location": "Manila",
+    "price": 250,
+    "main_image": "/images/studeo.jpg",
+    "images": ["/images/studeo-1.jpg", "/images/studeo-2.jpg"],
+    "description": "A usable and comfortable place for students, professionals, and researchers.",
+    "amenities": ["Individual Wide Desks", "Fast Wi-Fi", "Outside Food Allowed", "Free-Flowing Coffee, Iced-Beverages", "Safe and Secure"],
+    "hours": "Open 24/7",
+    "time_slots": ["All-Day Pass (8am-12am)", "All-Night GlassBox NightShift Pass (6pm-6am)"]
+  },
+  {
+    "id": 10,
+    "name": "Kings City",
+    "location": "Paranaque",
+    "price": 270,
+    "main_image": "/images/kings-city.png",
+    "images": ["/images/kings-city-1.jpg", "/images/kings-city-2.jpg"],
+    "description": "An aesthetic place that gives off a cozy and relaxing vibe that will inspire you to get your productivity flowing.",
+    "amenities": ["Unlimited Coffee", "Charging Stations", "Fast Wi-Fi"],
+    "hours": "8:00 AM - 8:00 PM",
+    "time_slots": ["8am - 2pm", "2pm - 8pm"]
+  }
+]
