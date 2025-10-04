@@ -9,7 +9,7 @@ export default function SpaceDetail() {
   const [space, setSpace] = useState(null);
 
   useEffect(() => {
-    fetch("/src/data/spaces.json")
+    fetch("/data/spaces.json")
       .then((r) => r.json())
       .then((list) => {
         const found = list.find((s) => String(s.id) === String(spaceId));
