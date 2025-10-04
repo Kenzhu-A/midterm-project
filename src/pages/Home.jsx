@@ -7,7 +7,7 @@ export default function Home() {
   const [query, setQuery] = useState("");
 
   useEffect(() => {
-    fetch("/src/data/spaces.json")
+    fetch("/data/spaces.json")
       .then((r) => r.json())
       .then(setSpaces)
       .catch((e) => console.error("Failed to load spaces:", e));

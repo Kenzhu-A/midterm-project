@@ -5,7 +5,6 @@ import { useAuth } from "./AuthContext";
 const BookingContext = createContext();
 
 export const BookingProvider = ({ children }) => {
-  // persisted bookings array
   const [bookings, setBookings] = useLocalStorage("ssph_bookings", []);
   const { user } = useAuth();
 
@@ -51,3 +50,4 @@ export const BookingProvider = ({ children }) => {
 };
 
 export const useBookings = () => useContext(BookingContext);
+

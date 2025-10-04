@@ -57,7 +57,7 @@ export default function Dashboard() {
                     Booking ID: {b.bookingId}
                   </div>
                   <div className="text-sm text-gray-600">
-                    Space ID: {b.spaceld} · {b.slot} · {b.date}
+                    Space ID: {b.spaceId} · {b.slot} · {b.date}
                   </div>
                   <div className="text-xs text-gray-400">
                     Booked on {new Date(b.createdAt).toLocaleString()}

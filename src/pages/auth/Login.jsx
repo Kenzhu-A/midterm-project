@@ -23,6 +23,7 @@ export default function Login() {
     navigate(from, { replace: true });
   };
 
+  {/*Login Menu */}
   return (
     <div className="max-w-md mx-auto card p-6">
       <h2 className="text-2xl font-semibold mb-4">Welcome back</h2>
